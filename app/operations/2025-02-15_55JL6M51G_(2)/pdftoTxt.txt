@@ -1,0 +1,382 @@
+INT 129992251 : 105.0 :
+JLR 
+: 105.0 :
+Wire
+Multicore Name Color Spec
+Size Option From
+Pin 1. Loc 1 To
+Pin 2 Loc 2 Length
+HYB36E
+BU
+CF22-50.00 5 0
+EN-F7
+C4YB85D 1
+D - 3
+C4YB36B 1
+D-10
+374
+ 
+ 
+ 
+ 
+ 
+ 
+CPN
+ 
+ 
+ 
+ 
+ 
+ 
+EPN
+ 
+ 
+ 
+ 
+ 
+ 
+1st CPN
+AA5AY
+EN-F7
+STANDARD WHEELBASE
+ S8BM-14N336-AB  55JL6M51G  
+ X  X
+Cav No
+Col Option CSA Spec
+1
+HYB36E BU
+EN-F7
+5 0
+CF22-50.00
+INT E31446900 : 1.0:
+JLR 
+: 1.0:
+INT E33840101
+: 1.0:
+JLR MHCT-14N003-BNC: 1.0:
+INT E34059002
+: 1.0:
+JLR MHCT-14A464-CHD: 1.0:
+INT E37869103
+: 1.0:
+JLR NHCT-14A439-AAD: 1.0:
+Cav No
+Col Option CSA Spec
+1
+HYB36E BU
+EN-F7
+5 0
+CF22-50.00
+INT E33840101
+: 1.0:
+JLR MHCT-14N003-BNC: 1.0:
+INT E34059002
+: 1.0:
+JLR MHCT-14A464-CHD: 1.0:
+PRINTED COPIES ARE UNCONTROLLED
+DO NOT SCALE FROM DRAWING
+PART MUST COMPLY WITH RESTRICTED SUBSTANCE MANAGEMENT  STANDARD 
+5TJLR.99.9999 TO  SAFEGUARD HEALTH, SAFETY AND THE ENVIRONMENT.
+REFERENCE
+DESIGN
+CHECKED
+SCALE
+DESCRIPTION
+DETAIL
+SAFETY
+CAD TYPE
+DRAFTED IN ACCORDANCE WITH JAGUAR LAND ROVER PLM 
+STANDARDS CURRENT
+AT INITIAL RELEASE
+PART NUMBER
+DRAWING PART NUMBER
+CAD LOC.
+OF
+SHT
+3RD ANGLE PROJ
+DIMENSIONS ARE
+IN MILLIMETERS
+IS MASTER
+DATE
+THE PRESENTATION AND LAYOUT OF THIS DRAWING IS IN LINE 
+WITH THE WIRE HARNESS ASSEMBLY DRAWING STANDARD 
+CADJLR.02.04 LATEST ISSUE.
+MATRIALS FOR BLACK/GREY BOX ITEMS SHALL
+CONFORM TO JAGUAR LAND ROVER MATERIAL
+CONTROL SPECIFICATIONS ST JLR.51.5227.
+SIZE
+JAGUAR
+JAGUAR LAND ROVER LIMITED
+LAND-
+-ROVER
+REV
+CHECKER
+ORIGINATOR
+LTRS
+ENG APP
+REVISIONS
+MATL APP
+CATIA V6
+ENOVIA
+55JL6M51G
+DS-L663-180116-SVO001-X5
+4
+DTMC
+LEAR
+LEAR
+S8BM-14N336-AB
+1
+1
+LEAR
+N/A
+NTS
+230123
+N/A
+AU
+POWER CA -48V BAT POS TO DCDC 
+POS
+LABEL
+INT E08319800 : 
+JLR ES-XS71-14A121-AA : 
+BLACK & WHITE
+FORD/JAGUAR
+TA675
+6 5
+TA695
+3 0
+TA695
+3 0
+TA001
+2 0
+TA001
+5 0
+6 7
+ECR
+DESCRIPTION
+DATE
+106685-1
+107137-1
+MHEV Battery to DCDC Converter connection
+                                                        M1 RELEASE
+DSI AND COMPLEXITY
+2022.04.06
+2022.04.06
+107701-1
+108828-1
+108828-2
+108913-1
+Change wire from FL2G to FLR2G
+Change wire from FL2G to FLR2G
+DT Assignment Request:DT08466-5
+DT Assignment Request:DT08466-5
+MHEV harness extra length and currently used clips
+MHEV harness extra length and currently used clips
+Final Sub Assy Definition
+2022.11.30
+2022.11.30
+2022.11.30
+2022.11.30
+2022.11.30
+2022.11.30
+2022.11.30
+108913-2
+108913-3
+108680-1
+108680-2
+108680-3
+109158-1
+109159-1
+109129-1
+109129-2
+Final Sub Assy Definition
+Final Sub Assy Definition
+Add General Notes to L663 harness dwgs
+Add General Notes to L663 harness dwgs
+Add General Notes to L663 harness dwgs
+L663-90-25MY-VB DSI and CPX Release
+L663-110-SV-25MY-VB DSI and CPX Release
+MHEV bubble bag -packagings
+MHEV bubble bag -packagings
+                                                    VB RELEASE
+2022.11.30
+2022.11.30
+2022.11.30
+2022.11.30
+2022.11.30
+2022.11.30
+2022.11.30
+2022.11.30
+2022.11.30
+110146-2
+110909-1
+110621-1
+110622-1
+110623-1
+112981-1
+2D - 3D CORRECTIONS MHEV cables
+Remove D90 (SV) content for 25MY L663 90
+L663-90-SV-25MY-TT DSI&CPX Release
+L663-110-SV-25MY-TT DSI&CPX Release
+L663-130-SV-25MY-TT DSI&CPX Release
+                                                    TT RELEASE
+MHEV Loadspace
+2023.06.26
+2023.07.11
+2023.07.11
+2023.07.11
+2023.07.11
+2023.10.05
+107701-2
+505531-1
+505237-1
+LEAR
+LEAR
+MHORSLEY
+MATSENG
+LEAR
+LEAR
+MHORSLEY
+MATSENG
+CLIP_R1
+INT 32035203Q : 
+JLR JHC2-14A282-AA : 
+INT 127130110 : 4 : 
+JLR 9HC2-1A303-DPA : 4 : 
+6 8
+TA001
+6 8
+TA001
+C4YB85D
+CLIP_R1
+C4YB36B
+N06
+N01
+N03
+N04
+N05
+LABEL
+INT E33840002 : 
+JLR MHCT-14463-AKD : 
+C4YB85D
+INT E33840002 : 
+JLR MHCT-14463-AKD : 
+C4YB36B
+SEALED EYELETS:
+ED 6388 - EYELET CRIMP SEALING REQUIRED IN WET AREAS: WHEN AN EARTHING EYELET
+IS IN A WET ENVIRONMENT IT MUST BE SEALED AT THE CRIMP AND INSULATION SUPPORT
+AREAS TO SPEC ES-F0EB-1A263-AA. THIS WILL AVOID WATER INGRESS BY CAPILLARY
+ACTION (WICKING) TO THE CORE OF THE WIRE. NO MATERIALS USED IN THE SEALING
+PROCESS ARE ALLOWED TO ENCROACH (INTRUDE) ON OR CONTAMINATE THE CONTACT
+AREA OF THE TERMINAL.
+FLAGNOTE $WP2 DENOTES SEALED EYELET REQUIREMENT.
+Each sealed eyelet needs a flagnote (as below) adding next to it to show
+it is needing to be sealed.
+If solder is determined to be required by the plant to achieve eyelet sealing
+the following note is to be added to the drawing.
+FLAGNOTE $WP3 DENOTES ADDITIONAL SOLDER REQUIRED FOR EYELET.
+Each Eyelet requiring solder needs a flagnote next to it.
+FLAGNOTE $WP4 DENOTES SOLDER, MASTIC AND HEATSHRINK REQUIRED FOR EYELET.
+Each Eyelet requiring solder, mastic and heatshrink needs a flagnote next to it.
+DC/DC 48V POSITIVE CONNECTION
+INT E34059002 CONNECTOR,Qty 1
+   JLR MHCT-14A464-CHD
+INT E33840101 CAP, Qty 1
+   JLR MHCT-14N003-BNC
+INT E33840002  EYELET, Qty 1
+    JLR MHCT-14463-AKD
+48V BATTERY POSITIVE CONNECTION
+MEASURING POINT
+MEASURING POINT
+SEE VIEW A and VIEW B
+A1
+A1
+A1
+A1
+A2
+A2
+NWP
+NWP
+- Sealed dry area
+- Sealed eyelet in dry area
+- HSS only
+- Solder plus HSS
+- Solder mastic plus HSS
+- Sealed wet area
+LEGEND OF FLAGNOTES:
+SPLICES
+EYELETS
+$WP2
+$WP3
+$WP4
+ NWP 
+ SWP 
+ NWP 
+$WP2
+$WP3
+$WP4
+INT E34059002 CONNECTOR,Qty 1
+   JLR MHCT-14A464-CHD
+INT E33840101 CAP, Qty 1
+   JLR MHCT-14N003-BNC
+INT E37869103 POS BUSBAR, Qty 1
+   JLR NHCT-14A439-AAD
+INT E31446900 NUT, Qty 1
+   JLR W582413-SJ50
+INT E33840002 EYELET, Qty 1
+    JLR MHCT-14463-AKD
+MHCT-14A464-CHD (CODE B)
+MHCT-14463-AKD
+MHCT-14N003-BNC
+MHCT-14A439-AAE
+MHCT-14A464-CHD
+S8BM-14N336-A-DWG-01
+S8BM-14N336-AB
+SEE VIEW A
+INSULATION LEGEND
+Untaped
+RELEASE OF PART S8BM-14N336-AA
+UEE1 E 50362196 000                              230123
+PLEASE SEE ECR BOX
+RELEASE OF PART S8BM-14N336-AB
+UEE1 E 50371902 000                              230711
+PLEASE SEE ECR BOX
+4.4 NC11 P8S
+ALERT A50380241
+TA675 (E04650700)
+Overlap PVC tape
+TA695 (E00022014)
+Overlap PVC tape
+MATERIALS FOR BLACK/GREY BOX ITEMS SHALL
+55JL6M51G
+Eyelet Sealant - Generic Note
+To reduce the potential of short circuits, all exposed hot-at-all-times
+[B+] eyelets shall be shrouded/insulated in the crimp area.
+Shroud/Insulation must cover the entire crimp and extend a minimum
+of 3mm beyond the terminal/crimp interface onto the wire insulation.
+When an earthing eyelet is in a wet environment it must be sealed at
+the crimp and insulation support areas.
+If heat-shrink tubing is used to seal the eyelet crimp, CARE MUST BE
+TAKEN DURING MANUFACTURING to ensure that the melted sealant
+does not flow and resolidify on the bottom of the crimp or the
+engaging portion of the eyelet, top or bottom.
+Excess sealant in the these areas can interfere with the ability of the
+terminal to function in an affective joint. Clamp load can be reduced,
+the eyelet could loosen, and the conductivity path could be broken.
+The same issues, other than the conductivity path being broken, hold
+true for excess solder on the crimp as well.
+Unless otherwise specified, the contact area of the eyelet will be a
+minimum diameter of 16mm from the center of the eyelet.
+Available for the eyelets in the image.
+See SDS requirements ED-0045, ED-1477, ED-1506 & ED-63880 for
+specific text validation.
+               No sealant contamination allowed
+               on the contact area of the eyelet.
+               Minimum 16mm Dia unless otherwise
+               specified.
+PRODUCT IS IN ACCORDANCE WITH
+RMDV L663-2025MY-344e3-Y9310A
+When selecting size of convolute tube smallest diameter possible shall be selected
+for the actual diameter of wire harness bundle in specific variant of the wire harness.
+BATT POS TO DCDC POS SVO
+POWER CA - 48V BAT POS TO 
+DCDC POS

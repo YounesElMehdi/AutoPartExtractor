@@ -1,0 +1,1927 @@
+ 
+ 
+ 
+ 
+ 
+ 
+CPN
+ 
+ 
+ 
+ 
+ 
+ 
+EPN
+ 
+ 
+ 
+ 
+ 
+ 
+1st CPN
+A57AB
+A6ZAA
+A6ZAB
+A6ZAC
+AA5A1
+AA5AY
+B5WBE
+G3AAK
+G3AAM
+G3AAU
+CCR SEATS
+LESS REAR SEAT HEATING
+HEATED REAR SEATS
+HEATED AND COOLED REAR SEATS
+SHORT WHEELBASE
+STANDARD WHEELBASE
+CONSOLE - CENTRE SEAT
+FRONT COMFORT AIR CON (IHKA)
+PREMIUM AIR CONDTING-FRNT/REAR
+3 ZONE AIR CON + CHILLER
+ S8B2-14E192-AA
+ S8B2-14E192-BA
+ S8B2-14E192-CA
+ 5D575V001
+ 5D575V002
+ 5D575V003
+ L002866883NCPAA
+ L002866884NCPAA
+ L002866885NCPAA
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X  X
+Multicore Name Internal part number Contents
+T2-CR121A
+T2-CR121A
+T2-VDB27EA
+T2-VDB27EA
+T2-VDB27FA
+T2-VDB27FA
+-
+-
+-
+-
+-
+-
+CR121A
+RR121A
+VDB27EA
+VDB28EA
+VDB27FA
+VDB28FA
+Wire
+Multicore Name Color
+Spec
+Size Option
+From
+Pin 1. Loc 1 To
+Pin 2 Loc 2 Length
+CBP04BA
+CBP04BB
+CBP04BC
+CBP10BA
+CBP10BB
+CBP10BC
+CR121A
+CR202
+CR202B
+GD383DB
+GD383DC
+GD383DD
+GD383ED
+GD383EF
+GD383EG
+GD391EA
+GD391FA
+GD391HA
+GD391K
+RH104AAA
+RH104AAAX
+RH104JA
+RH104X
+RR121A
+SBP40CB
+SBR45D
+VDB27EA
+VDB27FA
+VDB28EA
+VDB28FA
+VH466HA
+VH467DA
+T2-CR121A
+T2-CR121A
+T2-VDB27EA
+T2-VDB27FA
+T2-VDB27EA
+T2-VDB27FA
+VT
+VT
+VT
+YE/OG
+YE/OG
+YE/OG
+GY/VT
+BN/GN
+BN/GN
+BK
+BK
+BK
+BK
+BK
+BK
+BK
+BK
+BK
+BK
+BU/BN
+BU/BN
+BU/BN
+BU/BN
+VT
+VT/RD
+WH/RD
+VT/GN
+VT/GN
+GY/VT
+GY/VT
+YE/GY
+WH/GN
+WA-2.5
+WA-2.5
+WA-2.5
+WA-2.5
+WA-2.5
+WA-2.5
+WA-0.35
+WA-0.35
+WA-0.35
+WA-2.5
+WA-2.5
+WA-2.5
+WA-2.5
+WA-2.5
+WA-2.5
+WA-0.5
+WA-0.35
+WA-0.35
+WA-0.5
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+2.5
+2.5
+2.5
+2.5
+2.5
+2.5
+0.35
+0.35
+0.35
+2.5
+2.5
+2.5
+2.5
+2.5
+2.5
+0.5
+0.35
+0.35
+0.5
+0.35
+0.35
+0.35
+0.35
+0.35
+0.35
+0.35
+0.35
+0.35
+0.35
+0.35
+0.35
+0.35
+B5WBE
+B5WBE
+B5WBE
+B5WBE
+B5WBE
+B5WBE
+B5WBE
+B5WBE
+B5WBE
+B5WBE
+B5WBE
+B5WBE
+B5WBE
+B5WBE
+B5WBE
+A6ZAB && B5WBE && G3AAK
+B5WBE
+B5WBE
+B5WBE&& ( G3AAM || G3AAU )
+B5WBE && ( G3AAM || G3AAU )
+B5WBE && G3AAK
+B5WBE && ( G3AAM || G3AAU )
+B5WBE && ( G3AAM || G3AAU )
+B5WBE
+B5WBE&& ( G3AAM || G3AAU )
+A6ZAB && B5WBE && G3AAK
+A6ZAB&&B5WBE&&G3AAK
+B5WBE && ( G3AAM || G3AAU )
+A6ZAB&&B5WBE&&G3AAK
+B5WBE && ( G3AAM || G3AAU )
+B5WBE
+B5WBE && ( G3AAM || G3AAU )
+C33KA4
+C3DC15C
+C3DC94AA
+C33KA4
+C3DC15B
+C3DC94BA
+C33C8
+C33KA4
+C33KA4
+C33KA4
+C3DC15C
+C3DC94AA
+C3DC94BA
+C3DC15B
+C33KA4
+C33KA4
+C33KA4
+C33KA4
+C33KA4
+C3H466A
+C33KA4
+C3H467A
+C33KA4
+C33C8
+C33KA4
+C33KA4
+C33KA4
+C33KA4
+C33KA4
+C33KA4
+C33KA4
+C33KA4
+23
+1
+1
+1
+1
+1
+2
+5
+18
+24
+3
+3
+3
+3
+13
+7
+6
+3
+7
+2
+17
+2
+17
+3
+10
+10
+8
+8
+9
+9
+16
+15
+F-18
+G-6
+D-7
+F-18
+D-5
+G-6
+E-17
+F-18
+F-18
+F-18
+G-6
+D-7
+G-6
+D-5
+F-18
+F-18
+F-18
+F-18
+F-18
+C-15
+F-18
+D-16
+F-18
+E-17
+F-18
+F-18
+F-18
+F-18
+F-18
+F-18
+F-18
+F-18
+S3BP04A
+S3BP04A
+S3BP04A
+S2BP02B
+S2BP02B
+S2BP02B
+C3R170M
+C3R116B
+C3R202A
+S3D383B
+S3D383B
+S3D383B
+S2D383A
+S2D383A
+S2D383A
+C3HS31B
+C3R202A
+C3R116B
+C3HA00A
+SP13038A
+C3H466A
+SP13038A
+SP13038A
+C3R170M
+C3HA00A
+C3HS31B
+C3HS31B
+C3HA00A
+C3HS31B
+C3HA00A
+C3H466A
+C3H467A
+L
+R
+R
+L
+R
+R
+1
+1
+1
+L
+L
+L
+R
+R
+L
+10
+2
+2
+28
+L
+2
+R
+R
+2
+1
+1
+3
+5
+4
+6
+1
+1
+F-12
+F-12
+F-12
+F-11
+F-11
+F-11
+F-2
+B-15
+G-16
+E-13
+E-13
+E-13
+F-12
+F-12
+F-12
+B-12
+G-16
+B-15
+B-13
+E-13
+C-15
+E-13
+E-13
+F-2
+B-13
+B-12
+B-12
+B-13
+B-12
+B-13
+C-15
+D-16
+315
+685
+760
+365
+700
+625
+1160
+725
+235
+285
+855
+935
+625
+700
+365
+530
+235
+725
+585
+220
+535
+275
+335
+1160
+585
+530
+550
+605
+550
+605
+555
+195
+strap
+strap
+strap
+strap
+strap
+strap
+strap
+strap
+Cav No
+Col Option CSA Spec
+L
+R
+R
+GD383EG
+GD383ED
+GD383EF
+BK
+BK
+BK
+B5WBE
+B5WBE
+B5WBE
+2.5
+2.5
+2.5
+WA-2.5
+WA-2.5
+WA-2.5
+INT E00005558 : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col
+Option CSA Spec
+L
+R
+R
+CBP10BA
+CBP10BB
+CBP10BC
+YE/OG
+YE/OG
+YE/OG
+B5WBE
+B5WBE
+B5WBE
+2.5
+2.5
+2.5
+WA-2.5
+WA-2.5
+WA-2.5
+INT E00005558 : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col Option CSA Spec
+L
+R
+R
+CBP04BA
+CBP04BB
+CBP04BC
+VT
+VT
+VT
+B5WBE
+B5WBE
+B5WBE
+2.5
+2.5
+2.5
+WA-2.5
+WA-2.5
+WA-2.5
+INT E00005558 : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col Option CSA Spec
+L
+L
+L
+GD383DB
+GD383DC
+GD383DD
+BK
+BK
+BK
+B5WBE
+B5WBE
+B5WBE
+2.5
+2.5
+2.5
+WA-2.5
+WA-2.5
+WA-2.5
+INT E03427500 : 1.0 :
+JLR
+: 1.0 :
+Cav No.
+Col.
+Option
+CSA Spec
+L
+R
+R
+RH104AAA
+RH104JA
+RH104X
+BU/BN
+BU/BN
+BU/BN
+B5WBE && ( G3AAM || G3AAU )
+B5WBE && ( G3AAM || G3AAU )
+B5WBE && ( G3AAM || G3AAU )
+0.35
+0.35
+0.35
+WA-0.35
+WA-0.35
+WA-0.35
+E00005556
+Cav No
+Col
+Option CSA Spec
+1
+2
+CR121A
+RR121A
+GY/VT
+VT
+B5WBE
+B5WBE
+0.35
+0.35
+WA-0.35
+WA-0.35
+Cav No
+Col
+Option CSA Spec
+1
+2
+3
+CBP10BC
+-
+GD383ED
+YE/OG
+-
+BK
+B5WBE
+-
+B5WBE
+2.5
+-
+2.5
+WA-2.5
+-
+WA-2.5
+3219503U7
+SPACER
+Cav No
+Col Option CSA Spec
+1
+2
+3
+CBP04BB
+-
+GD383DC
+VT
+-
+BK
+B5WBE
+-
+B5WBE
+2.5
+-
+2.5
+WA-2.5
+-
+WA-2.5
+INT SPACER : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col
+Option
+CSA Spec
+1
+2
+VH467DA
+RH104JA
+WH/GN
+BU/BN
+B5WBE && ( G3AAM || G3AAU )
+B5WBE && ( G3AAM || G3AAU )
+0.35
+0.35
+WA-0.35
+WA-0.35
+SPACER
+wing
+Cav No
+Col
+Option
+CSA Spec
+1
+2
+2
+VH466HA
+RH104AAA
+RH104AAAX
+YE/GY
+BU/BN
+BU/BN
+B5WBE
+B5WBE && ( G3AAM || G3AAU )
+B5WBE && G3AAK
+0.35
+0.35
+0.35
+WA-0.35
+WA-0.35
+WA-0.35
+SPACER
+wing
+Cav No
+Col
+Option CSA Spec
+1
+2
+CR202B
+GD391FA
+BN/GN
+BK
+B5WBE
+B5WBE
+0.35
+0.35
+WA-0.35
+WA-0.35
+SPACER
+Cav No
+Col
+Option
+CSA Spec
+Cav No
+Col Option
+CSA Spec
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+SBP40CB
+-
+-
+-
+VDB27FA
+VDB28FA
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+VT/RD
+-
+-
+-
+VT/GN
+GY/VT
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+B5WBE&& ( G3AAM || G3AAU )
+-
+-
+-
+B5WBE && ( G3AAM || G3AAU )
+B5WBE && ( G3AAM || G3AAU )
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+0.35
+-
+-
+-
+0.35
+0.35
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+WA-0.35
+-
+-
+-
+WA-0.35
+WA-0.35
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+GD391K
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+BK
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+B5WBE&& ( G3AAM || G3AAU )
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+0.5
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+WA-0.5
+-
+-
+-
+-
+SPACER
+Cav No
+Col Option CSA Spec
+1
+2
+3
+CBP04BC
+-
+GD383DD
+VT
+-
+BK
+B5WBE
+-
+B5WBE
+2.5
+-
+2.5
+WA-2.5
+-
+WA-2.5
+INT SPACER : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col
+Option CSA Spec
+1
+2
+3
+CBP10BB
+-
+GD383EF
+YE/OG
+-
+BK
+B5WBE
+-
+B5WBE
+2.5
+-
+2.5
+WA-2.5
+-
+WA-2.5
+INT SPACER : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col
+Option CSA Spec
+1
+2
+3
+4
+-
+CR121A
+RR121A
+-
+-
+GY/VT
+VT
+-
+-
+B5WBE
+B5WBE
+-
+-
+0.35
+0.35
+-
+-
+WA-0.35
+WA-0.35
+-
+329959H94
+SPACER
+Cav No
+Col
+Option
+CSA Spec
+Cav No
+Col
+Option
+CSA Spec
+1
+2
+3
+4
+5
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+CBP10BA
+-
+GD391HA
+-
+CR202
+GD391FA
+GD391EA
+GD391K
+VDB27EA
+VDB27FA
+VDB28EA
+VDB28FA
+SBP40CB
+SBR45D
+-
+YE/OG
+-
+BK
+-
+BN/GN
+BK
+BK
+BK
+VT/GN
+VT/GN
+GY/VT
+GY/VT
+VT/RD
+WH/RD
+-
+B5WBE
+-
+B5WBE
+-
+B5WBE
+B5WBE
+A6ZAB && B5WBE && G3AAK
+B5WBE&& ( G3AAM || G3AAU )
+A6ZAB&&B5WBE&&G3AAK
+B5WBE && ( G3AAM || G3AAU )
+A6ZAB&&B5WBE&&G3AAK
+B5WBE && ( G3AAM || G3AAU )
+B5WBE&& ( G3AAM || G3AAU )
+A6ZAB && B5WBE && G3AAK
+-
+2.5
+-
+0.35
+-
+0.35
+0.35
+0.5
+0.5
+0.35
+0.35
+0.35
+0.35
+0.35
+0.35
+-
+WA-2.5
+-
+WA-0.35
+-
+WA-0.35
+WA-0.35
+WA-0.5
+WA-0.5
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+-
+12
+13
+14
+15
+16
+17
+17
+18
+19
+20
+21
+22
+23
+24
+-
+GD383EG
+-
+VH467DA
+VH466HA
+RH104AAAX
+RH104X
+CR202B
+-
+-
+-
+-
+CBP04BA
+GD383DB
+-
+BK
+-
+WH/GN
+YE/GY
+BU/BN
+BU/BN
+BN/GN
+-
+-
+-
+-
+VT
+BK
+-
+B5WBE
+-
+B5WBE && ( G3AAM || G3AAU )
+B5WBE
+B5WBE && G3AAK
+B5WBE && ( G3AAM || G3AAU )
+B5WBE
+-
+-
+-
+-
+B5WBE
+B5WBE
+-
+2.5
+-
+0.35
+0.35
+0.35
+0.35
+0.35
+-
+-
+-
+-
+2.5
+2.5
+-
+WA-2.5
+-
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+WA-0.35
+-
+-
+-
+-
+WA-2.5
+WA-2.5
+INT 329958AF6
+:1.0:
+JLR 6C1T-14A594-AA :1.0:
+INT SPACER :1.0:
+JLR 
+:1.0:
+INT blockseal:1.0:
+JLR 
+:1.0:
+Cav No
+Col
+Option CSA Spec
+1
+2
+CR202
+GD391HA
+BN/GN
+BK
+B5WBE
+B5WBE
+0.35
+0.35
+WA-0.35
+WA-0.35
+329959H94
+SPACER
+Cav No
+Col
+Option
+CSA Spec
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+SBR45D
+-
+VDB27EA
+VDB28EA
+-
+-
+-
+-
+-
+GD391EA
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+WH/RD
+-
+VT/GN
+GY/VT
+-
+-
+-
+-
+-
+BK
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+A6ZAB && B5WBE && G3AAK
+-
+A6ZAB&&B5WBE&&G3AAK
+A6ZAB&&B5WBE&&G3AAK
+-
+-
+-
+-
+-
+A6ZAB && B5WBE && G3AAK
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+0.35
+-
+0.35
+0.35
+-
+-
+-
+-
+-
+0.5
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+WA-0.35
+-
+WA-0.35
+WA-0.35
+-
+-
+-
+-
+-
+WA-0.5
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+SPACER
+PRINTED COPIES ARE UNCONTROLLED
+DO NOT SCALE FROM DRAWING
+PART MUST COMPLY WITH RESTRICTED SUBSTANCE MANAGEMENT  STANDARD 
+5TJLR.99.9999 TO  SAFEGUARD HEALTH, SAFETY AND THE ENVIRONMENT.
+REFERENCE
+DESIGN
+CHECKED
+SCALE
+DESCRIPTION
+DETAIL
+SAFETY
+CAD TYPE
+DRAFTED IN ACCORDANCE WITH JAGUAR LAND ROVER PLM 
+STANDARDS CURRENT
+AT INITIAL RELEASE
+PART NUMBER
+DRAWING PART NUMBER
+CAD LOC.
+OF
+SHT
+3RD ANGLE PROJ
+DIMENSIONS ARE
+IN MILLIMETERS
+IS MASTER
+DATE
+THE PRESENTATION AND LAYOUT OF THIS DRAWING IS IN LINE 
+WITH THE WIRE HARNESS ASSEMBLY DRAWING STANDARD 
+CADJLR.02.04 LATEST ISSUE.
+MATRIALS FOR BLACK/GREY BOX ITEMS SHALL
+CONFORM TO JAGUAR LAND ROVER MATERIAL
+CONTROL SPECIFICATIONS ST JLR.51.5227.
+SIZE
+JAGUAR
+JAGUAR LAND ROVER LIMITED
+LAND-
+-ROVER
+REV
+CHECKER
+ORIGINATOR
+LTRS
+ENG APP
+REVISIONS
+MATL APP
+X-OTHER
+ENOVIA
+S8B2-14E192-Z-DWG-01 
+DS-L663-180115-E05-25
+2+ECN
+DTMC
+LEAR
+LEAR
+S8B2-14E192-ZA
+1
+1
+LEAR
+N/A
+NTS
+180403
+RH/LH/N/A
+AU
+HARNESS ASSY-FIRST ROW CENTRE 
+SEAT
+1ST ROW CENTRE SEAT  90/110
+Label
+INT E08319800 : 
+JLR XS71-14A121-AA : 
+BLACK & WHITE
+FORD/JAGUAR
+TA001
+25
+TA001
+20
+TA675
+125
+TA220
+95
+TA001
+10
+TA220
+40
+TA001
+10
+TA675
+40
+TA675
+130
+TA675
+90
+TA001
+15
+TA220
+95
+TA001
+10
+TA220
+46
+TA635
+70
+TA001
+20
+TA635
+125
+TA001
+20
+TA635
+30
+TA220
+45
+TA675
+50
+TA675
+50
+TU1975
+TU1975
+50
+TA635
+50
+TU1975
+TU1975
+10
+TA675
+50
+TA635
+30
+TA635
+70
+TA675
+50
+TA675
+50
+TA635
+160
+TU1975
+TU1975
+100
+TA675
+0
+TA675
+85
+TA675
+70
+TA675
+0
+TA635
+150
+TA635
+65
+TA001
+10
+TA635
+60
+E-E
+F-F
+H-H
+A-A
+B-B
+C-C
+Twisted CAN network circuits, consisting of 2 to 4 wires (circuit id beginning VDB as reported in the DSI 
+file), that are manufactured internally, should be manufactured according to the requirementslaid out in 
+the standard ED-0763. 
+A spot tape should be applied to the crossover nearest to the connector, to prevent unravelling of the 
+twist, with the wires being plugged to the connector, ensuring no other circuits are routed between the 
+wires.
+Type B tapes applied as per 
+ES-XU5T-1A303-AA unless otherwise 
+specified
+1
+2
+3
+4
+1
+2
+3
+crossovers
+Twist
+<50mm
+Max 50 mm
+Minimum spacing between circuits in
+connector.
+connector
+( please use 127020634 )
+Note 3:
+For Non-CAN twisted circuits (identified as T2 [multicore section] without a 'VDB' prefixed wire ID in the DSi) 
+that are manufactured internally, should be manufactured according to the requirements laidout in the 
+standard ED-0763.
+A spot tape should be applied to the crossover nearest to the connector, to prevent unravelling of the twist, 
+with the wires being plugged to the connector, ensuring no other circuits are routed between the wires. 
+Type B tapes applied as per 
+ES-XU5T-1A303-AA unless otherwise 
+specified
+1
+2
+3
+4
+1
+2
+3
+crossovers
+Twist
+<50mm
+Max 50 mm
+Minimum spacing between circuits in
+connector.
+connector
+( please use 127020634 )
+Twisted Flexray circuits (wire material = FRTH, FRTM or FRTL reported in the DSI file), should be 
+manufactured according to the requirements laid out in the standard STJLR.18.081.
+A spot tape shouldbe applied to the crossover nearest to the connector, to prevent unravelling of the twist,
+with those wires being plugged last to the connector cavities to make sure that other  wires do not get 
+mixed between.
+Type B tapes applied as per 
+ES-XU5T-1A303-AA unless otherwise 
+specified
+1
+2
+3
+4
+1
+2
+3
+crossovers
+Twist
+20 mm +/- 2 mm
+Max 30 mm
+Minimum spacing between circuits in
+connector.
+connector
+( please use 127020634 )
+connector.
+1
+2
+3
+1
+2
+crossovers
+Twist
+Transmit line 10mm
+Max 40 mm
+Minimum spacing between circuits in
+connector
+Receive line 15mm
+Note 4:
+For DoIP twisted circuits (identified as ETTL [Ethernet Transmit] & ERTL [Ethernet Receive] prefixed wire 
+ID's in the DSi) that are manufactured internally, should be manufactured according to the requirements 
+laid out in the standard MY-7043.
+A spot tape should be applied to the crossover nearest to the connector, to prevent unravelling of the 
+twist, with the wires being plugged to the connector, ensuring no other circuits are routedbetween the 
+wires. 
+Type B tapes applied as per 
+ES-XU5T-1A303-AA unless otherwise 
+specified
+( please use 127020634 )
+Note :
+When selecting size of convolute tube,
+smallest diameter possible shall be selected
+for the actual diameter of wire harness bundle
+in specific variant of the wire harness.
+TWISTED CORE
+Use heatshrink for multicore drain splice
+Cable Screen
+Cable Cores
+Ultrasonic Weld
+Drain Wire
+Main Cable
+Heat Shrink
+GROMMET (APPLY 
+WATERPROOF)
+per STJLR.00.5056
+per STJLR.00.5056
+EXTERIOR SIDE 
+(WET)
+INTERIOR SIDE 
+(DRY)
+SWP
+SPLICE DUMP SWITCH
+2D Drawing Grommet Example
+Flag Example for a WP 
+Splice 
+1
+2
+3
+4
+41
+35
+38
+31
+PU
+LGW
+B
+P
+0.5D
+0.5D
+0.75D
+0.75D
+134
+134
+134
+134
+ECR
+DESCRIPTION
+DATE
+108501-4
+108913-1
+108680-1
+Remove sealing plugs from Jump seat inlines
+GENERAL NOTES FOR VB 2D DRAWINGS
+Final Sub Assy Definition 
+18/10/2022
+15/11/2022
+15/11/2022
+108501-3
+Remove sealing plugs from Jump seat inlines
+25MY VB
+18/10/2022
+R0455055
+INT 32035203Q : 
+JLR JHC2-14A282-AA : 
+R0455035
+INT E03900700 : 
+JLR GHCT-14A163-BKA : 
+GHCT-14A163-BKA
+R0455065
+INT E00022887 : 
+JLR HHCT-14A163-BA : 
+R0455050
+INT 32035203Q : 
+JLR JHC2-14A282-AA : 
+R0455060
+INT 32035203Q : 
+JLR JHC2-14A282-AA : 
+R0455010
+INT 32035203Q : 
+JLR JHC2-14A282-AA : 
+R0455045
+INT 32035203Q : 
+JLR JHC2-14A282-AA : 
+R0455040
+INT 32035203Q : 
+JLR JHC2-14A282-AA : 
+R0455025
+INT E04134300 : 
+JLR GHCT-14A163-ALA : 
+R0455020
+INT 32035203Q : 
+JLR JHC2-14A282-AA : 
+R0455015
+INT 32035203Q : 
+JLR JHC2-14A282-AA : 
+INT E03106100 : 6 : 
+JLR  : 6 : 
+INT E03106100 : 3 : 
+JLR  : 3 : 
+INT E03106100 : 3 : 
+JLR  : 3 : 
+TA635
+85
+TA001
+20
+TA635
+70
+95
+TA635
+20
+TA001
+60
+TA635
+20
+TA001
+20
+TA001
+TA001
+TU1975
+TU1975
+TA220
+TA635
+TA675
+TA675
+49
+N3393708
+N3393701
+C3DC94BA
+N3393707
+N3393710
+N3393712
+C3DC15C
+N4450913
+N4450914
+C3DC94AA
+C3DC15B
+R0455050
+R0455040
+R0455045
+R0455055
+R0455035
+R0455060
+R0455065
+N49602
+N8130
+C3R170M
+C33KA4
+N8101
+C3R116B
+N49614
+C33C8
+C3H467A
+N49619
+C3H466A
+C3R202A
+C3HS31B
+C3HA00A
+R0455015
+S3D383B
+Label
+SP13038A
+R0455020
+N49600
+R0455010
+N49616
+N49618
+R0455025
+N49601
+N49621
+N49628
+N49635
+N49636
+S3BP04A
+S2D383A
+S2BP02B
+S2D383A
+INT UWELD15 : 
+JLR  : 
+S2BP02B
+INT UWELD15 : 
+JLR  : 
+S3BP04A
+INT UWELD15 : 
+JLR  : 
+S3D383B
+INT UWELD15 : 
+JLR  : 
+SP13038A
+INT UWELD15 : 
+JLR  : 
+INT _GHCT-14489-BXA : 
+JLR GHCT-14489-BXA : 
+ PASS SB RETRACTOR
+C3R170M
+Assy: ITEM1
+INT E15725400_JLR : B5WBE
+JLR L8B2-14K300-GA : B5WBE
+BLACK
+1
+2
+INT 3216688N7 : 
+JLR F80B-14489-CD : 
+USB CHARGER-RH 2ND ROW
+C3DC94BA
+BLACK
+3
+1
+2
+2ND ROW ACCESSORY SOCKET
+C3DC15C
+INT 3216675N2 : 
+JLR F80B-14489-BC : 
+NATURAL
+3
+1
+2
+INT 3216757D6 : 
+JLR 3M5T-14489-BBA : 
+REAR RIGHT FACE DUCT SENSOR
+C3H467A
+BLACK
+1
+2
+INT 3216757D6 : 
+JLR 3M5T-14489-BBA : 
+REAR LEFT FACE DUCT SENSOR
+C3H466A
+BLACK
+1
+2
+INT 3216761V7 : 
+JLR 4S7T-14489-ZAA : 
+SWITCH BUCKLE ROW 1 MIDDLE
+C3R202A
+ORANGE
+1
+2
+INT 32165K207 : 
+JLR 9F6T-14489-EA : 
+REAR AC PANEL
+C3HA00A
+1
+16
+17
+32
+GREY
+USB CHARGER-LH 2ND ROW
+C3DC94AA
+INT 3216688N7 : 
+JLR F80B-14489-CD : 
+BLACK
+3
+1
+2
+2ND ROW ACCESSORY SOCKET
+C3DC15B
+INT 3216675N2 : 
+JLR F80B-14489-BC : 
+NATURAL
+3
+1
+2
+INT 3216711R0 : 
+JLR 2R8T-14A459-EA : 
+INLINE CENTRE SEAT/CABIN
+C33C8
+BLACK
+1
+4
+INT 32165K4N8 : 
+JLR DHCT-14A624-BA : 
+INLINE SEAT PASS/CABIN 3
+C33KA4
+1
+2
+11
+12
+14
+13
+23
+24
+BLACK
+INT 3216741P8 : 
+JLR 4S7T-14A459-VAA : 
+ODS SENSING MAT
+C3R116B
+LIGHT GREY
+1
+2
+INT 32165K18W : 
+JLR 9F6T-14489-DA : 
+SWITCH PACK CONSOLE REAR (2 ZONE)
+C3HS31B
+GREY
+1
+10
+11
+20
+ROLL THE LABEL AND P/N MUST BE VISIBLE
+CRITICAL DIMENSION 150 MM
+CRITICAL DIMENSION 50 MM
+SECTION VIEW G-G
+H-H
+C-C
+E-E
+G-G
+C-C
+G-G
+F-F
+A-A
+A-A
+B-B
+A-A
+E-E
+H-H
+C-C
+G-G
+C-C
+G-G
+F-F
+A-A
+A-A
+A-A
+B-B
+RELEASE OF PART            S8B2-14E192-ZA
+PART RELEASED ON       UEE1 E 50362195 000
+                                                        221018
+PLEASE SEE ECR BOX                 
+LEAR
+LEAR
+MATSENG
+MHORSLEY
+INSULATION LEGEND
+PRODUCT IS IN ACCORDANCE 
+WITH RMDV 344e3-Y9310A

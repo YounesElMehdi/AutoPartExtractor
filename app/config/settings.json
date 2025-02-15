@@ -1,0 +1,5 @@
+{
+    "regex_pattern": "\\b(?:[A-Z0-9]{6,}(?:_[A-Z]{3})?)\\b",
+    "similarity_threshold": 3,
+    "whitelist_path": "app/ValidatedWhitelist.txt"
+}

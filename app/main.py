@@ -1,12 +1,12 @@
 import sys
-from PyQt5.QtWidgets import QApplication
-from app.gui import MainWindow
+from pathlib import Path
 
-def main():
-    app = QApplication(sys.argv)
-    window = MainWindow()
-    window.show()
-    sys.exit(app.exec_())
+# Add the project root to the Python path
+project_root = str(Path(__file__).resolve().parent.parent)
+if project_root not in sys.path:
+    sys.path.append(project_root)
+
+from app.gui import main
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,2514 @@
+Multicore Name Internal part number Contents
+M2-VET64B
+M2-VET64B
+M2-VET64B
+M2-VET68B
+M2-VET68B
+M2-VET68B
+T2-CC17B
+T2-CC17B
+T2-CC19B
+T2-CC19B
+T2-LET63B
+T2-LET63B
+T2-VCA04A
+T2-VCA04A
+T2-VCA06A
+T2-VCA06A
+T2-VET66B
+T2-VET66B
+E28824300_JLR
+E28824300_JLR
+E28824300_JLR
+E28826300_JLR
+E28826300_JLR
+E28826300_JLR
+E16136300_JLR
+E16136300_JLR
+E16136301_JLR
+E16136301_JLR
+-
+-
+-
+-
+-
+-
+-
+-
+DET64B
+VET64B
+VET65B
+DET68B
+RET68B
+VET68B
+CCB16B
+CCB17B
+CCB18B
+CCB19B
+LET63B
+RET63B
+RCA18A
+VCA04A
+RCA20A
+VCA06A
+RET66B
+VET66B
+ 
+ 
+ 
+ 
+ 
+ 
+CPN
+ 
+ 
+ 
+ 
+ 
+ 
+EPN
+ 
+ 
+ 
+ 
+ 
+ 
+1st CPN
+AA5A1
+AA5AY
+AA5AZ
+ALL
+DWABC
+DWABP
+EGJAQ
+EGJAT
+EN-U9
+EN-YE
+EN-YL
+EN-YM
+EN-YT
+JEAAA
+JEAAB
+JEAAC
+SHORT WHEELBASE
+STANDARD WHEELBASE
+LONG WHEELBASE
+STANDARD FEATURE
+STD DUTY COIL SPRING SUSP
+ELECTRONIC AIR SUSPENSION
+REAR AXLE ACT LCKG DIFF W/TVBB
+REAR AXLE OPEN DIFF W/TVBB
+2.0L I4 PET HIGH DOHC AJ200
+2.0L AJ200P HI PHEV
+3.0 P AJ20 P6H
+3.0 D AJ20 D6H
+5.0 P AJ133 DOHC CDA SC
+LESS HEADLAMP LEVELING
+MANUAL HEADLAMP LEVELING
+AUTOMATIC HEADLAMP LEVELING
+ S8B2-14M401-AB
+ S8B2-14M401-BB
+ S8B2-14M401-CB
+ S8B2-14M401-DB
+ S8B2-14M401-EB
+ S8B2-14M401-FB
+ 5D165T001
+ 5D165T002
+ 5D165T003
+ 5D165T004
+ 5D165T005
+ 5D165T006
+ 
+ 
+ 
+ 
+ 
+ 
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+ X
+Wire
+Multicore Name Color
+Spec
+Size Option
+From
+Pin 1. Loc 1 To
+Pin 2 Loc 2 Length
+CCB16B
+CCB17B
+CCB18B
+CCB19B
+CET69B
+CMC09B
+CMC09D
+DET64B
+DET68B
+LCL12B
+LCL13B
+LET63B
+RCA18A
+RCA20A
+RCL12B
+RCL13B
+RET33AC
+RET63B
+RET66B
+RET68AC
+RET68B
+RET69B
+VCA04A
+VCA06A
+VCL12B
+VCL13B
+VET64B
+VET65B
+VET66B
+VET68B
+T2-CC17B
+T2-CC17B
+T2-CC19B
+T2-CC19B
+M2-VET64B
+M2-VET68B
+T2-LET63B
+T2-VCA04A
+T2-VCA06A
+T2-LET63B
+T2-VET66B
+M2-VET68B
+T2-VCA04A
+T2-VCA06A
+M2-VET64B
+M2-VET64B
+T2-VET66B
+M2-VET68B
+WH/VT
+BU/GN
+YE/GY
+GN/BN
+WH/VT
+GY/OG
+GY/OG
+SCR
+SCR
+VT/OG
+GN/BU
+BU/WH
+BN/GN
+BN
+GN/WH
+YE/BU
+WH/VT
+GN/WH
+GY/YE
+WH/VT
+YE/GY
+BU/GN
+BU/OG
+WH/OG
+WH/VT
+BN/BU
+BU/BN
+GY
+GN
+VT/OG
+CF11-2.5
+CF11-2.5
+CF11-2.5
+CF11-2.5
+WA-1.0
+WA-0.5
+WA-0.5
+GJ-1.0
+GJ-2.5
+WA-0.5
+WA-0.5
+WA-0.5
+WA-0.5
+WA-0.5
+WA-0.5
+WA-0.5
+WA-0.75
+WA-0.5
+WA-0.75
+WA-0.75
+GJ-2.5
+WA-1.0
+WA-0.5
+WA-0.5
+WA-0.5
+WA-0.5
+GJ-0.5
+GJ-0.5
+WA-0.75
+GJ-2.5
+2.5
+2.5
+2.5
+2.5
+1
+0.5
+0.5
+1
+2.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.75
+0.5
+0.75
+0.75
+2.5
+1
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.75
+2.5
+ALL
+ALL
+ALL
+ALL
+EGJAQ
+EN-U9 || EN-YL || EN-YM || EN-YT
+ALL
+EGJAQ
+EGJAQ
+DWABP
+DWABP|| (DWABC&&JEAAC)
+EGJAQ
+EN-U9||EN-YE||EN-YL||EN-YM||EN-YT
+EN-U9||EN-YE||EN-YL||EN-YM||EN-YT
+DWABP
+DWABP||(DWABC&&JEAAC)
+EGJAQ
+EGJAQ
+EGJAQ
+EGJAQ
+EGJAQ
+EGJAQ
+EN-U9||EN-YE||EN-YL||EN-YM||EN-YT
+EN-U9||EN-YE||EN-YL||EN-YM||EN-YT
+DWABP
+DWABP||(DWABC&&JEAAC)
+EGJAQ
+EGJAQ
+EGJAQ
+EGJAQ
+C44-B4
+C44-B4
+C44-B4
+C44-B4
+C44-A2
+C44-B2
+C44-B2
+S4ET33C
+S4ET33F
+C44-B2
+C44-B2
+C44-A2
+C44-B2
+C44-B2
+C44-B2
+C44-B2
+C44-A2
+C44-A2
+C44-A2
+C44-A2
+C44-A2
+C44-A2
+C44-B2
+C44-B2
+C44-B2
+C44-B2
+C44-A2
+C44-A2
+C44-A2
+C44-A2
+1
+2
+3
+4
+11
+13
+14
+R
+R
+4
+7
+4
+10
+16
+3
+6
+14
+5
+23
+12
+1
+13
+9
+17
+5
+8
+19
+20
+24
+2
+A-11
+A-11
+A-11
+A-11
+C-14
+C-7
+C-7
+C-9
+C-12
+C-7
+C-7
+C-14
+C-7
+C-7
+C-7
+C-7
+C-14
+C-14
+C-14
+C-14
+C-14
+C-14
+C-7
+C-7
+C-7
+C-7
+C-14
+C-14
+C-14
+C-14
+C4CB06
+C4CB06
+C4CB07
+C4CB07
+C4ET64A
+C4MC09
+C4MC09
+BAREEND1
+BAREEND2
+C4CD13
+C4CD12
+C4ET64A
+C4CA04
+C4CA06
+C4CD13
+C4CD12
+S4ET33C
+C4ET64A
+C4ET66A
+S4ET33F
+C4ET64A
+C4ET64A
+C4CA04
+C4CA06
+C4CD13
+C4CD12
+C4ET64A
+C4ET64A
+C4ET66A
+C4ET64A
+2
+1
+2
+1
+11
+2
+1
+L
+L
+1
+1
+4
+1
+1
+3
+3
+L
+9
+2
+L
+3
+7
+2
+2
+2
+2
+6
+10
+1
+2
+F-2
+F-2
+F-18
+F-18
+E-10
+G-13
+G-13
+E-9
+D-9
+D-13
+E-6
+E-10
+G-6
+G-14
+D-13
+E-6
+C-9
+E-10
+H-9
+C-12
+E-10
+E-10
+G-6
+G-14
+D-13
+E-6
+E-10
+E-10
+H-9
+E-10
+1425
+1425
+1995
+1995
+1035
+1190
+1190
+1025
+1000
+1195
+600
+1040
+650
+1255
+1195
+600
+275
+1045
+1265
+325
+1000
+995
+650
+1255
+1195
+600
+1025
+1025
+1265
+1000
+INT strap:1.0:
+JLR 
+:1.0:
+INT strap:1.0:
+JLR 
+:1.0:
+INT strap:1.0:
+JLR 
+:1.0:
+INT strap:1.0:
+JLR 
+:1.0:
+INT strap:1.0:
+JLR 
+:1.0:
+INT E12558800 :2.0:
+JLR 
+:2.0:
+INT 320350093 :1.0:
+JLR T30R
+:1.0:
+INT E00018757
+:6.0:
+JLR JHCT-98176-CA:6.0:
+INT 127126134
+:6.0:
+JLR 9HC2-1A303-EBA :6.0:
+INT 320350093 :1.0:
+JLR T30R
+:1.0:
+INT strap:1.0:
+JLR 
+:1.0:
+Cav No
+Col Option CSA Spec
+L
+DET68B SCR EGJAQ
+2.5
+GJ-2.5
+INT E02464800
+:1.0:
+JLR HHCT-14A099-AGA :1.0:
+Cav No
+Col
+Option CSA Spec
+L
+R
+RET33AC
+DET64B
+WH/VT
+SCR
+EGJAQ
+EGJAQ
+0.75
+1
+WA-0.75
+GJ-1.0
+INT E00005578 :1.0:
+JLR 
+:1.0:
+INT E00027012 :1.0:
+JLR 
+:1.0:
+Cav No
+Col
+Option CSA Spec
+L
+R
+RET68AC
+DET68B
+WH/VT
+SCR
+EGJAQ
+EGJAQ
+0.75
+2.5
+WA-0.75
+GJ-2.5
+INT E00005579 :1.0:
+JLR 
+:1.0:
+INT E00027012 :1.0:
+JLR 
+:1.0:
+Cav No
+Col Option CSA Spec
+L
+DET64B SCR EGJAQ
+1
+GJ-1.0
+INT E00027012 :1.0:
+JLR 
+:1.0:
+Cav No
+Col
+Option CSA Spec
+Cav No
+Col
+Option CSA Spec
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+RET68B
+VET68B
+(3299853MH)
+LET63B
+RET63B
+(3299853MH)
+(3299853MH)
+(3299853MH)
+(3299853MH)
+(3299853MH)
+CET69B
+RET68AC
+YE/GY
+VT/OG
+NT
+BU/WH
+GN/WH
+NT
+NT
+NT
+NT
+NT
+WH/VT
+WH/VT
+EGJAQ
+EGJAQ
+-
+EGJAQ
+EGJAQ
+-
+-
+-
+-
+-
+EGJAQ
+EGJAQ
+2.5
+2.5
+-
+0.5
+0.5
+-
+-
+-
+-
+-
+1.0
+0.75
+GJ-2.5
+GJ-2.5
+-
+WA-0.5
+WA-0.5
+-
+-
+-
+-
+-
+WA-1.0
+WA-0.75
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+RET69B
+RET33AC
+(3299853MH)
+(3299853MH)
+(3299853MH)
+(3299853MH)
+VET64B
+VET65B
+(3299853MH)
+(3299853MH)
+RET66B
+VET66B
+BU/GN
+WH/VT
+NT
+NT
+NT
+NT
+BU/BN
+GY
+NT
+NT
+GY/YE
+GN
+EGJAQ
+EGJAQ
+-
+-
+-
+-
+EGJAQ
+EGJAQ
+-
+-
+EGJAQ
+EGJAQ
+1.0
+0.75
+-
+-
+-
+-
+0.5
+0.5
+-
+-
+0.75
+0.75
+WA-1.0
+WA-0.75
+-
+-
+-
+-
+GJ-0.5
+GJ-0.5
+-
+-
+WA-0.75
+WA-0.75
+INT 329925SL7 : 1.0 :
+JLR
+: 1.0 :
+INT SPACER : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col
+Option
+CSA Spec
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+(3299853NG)
+(3299853NG)
+RCL12B
+LCL12B
+VCL12B
+RCL13B
+LCL13B
+VCL13B
+VCA04A
+RCA18A
+(3299853NG)
+(3299853NG)
+CMC09B
+CMC09D
+(3299853NG)
+RCA20A
+VCA06A
+(3299853NG)
+(3299853NG)
+(3299853NG)
+NT
+NT
+GN/WH
+VT/OG
+WH/VT
+YE/BU
+GN/BU
+BN/BU
+BU/OG
+BN/GN
+NT
+NT
+GY/OG
+GY/OG
+NT
+BN
+WH/OG
+NT
+NT
+NT
+-
+-
+DWABP
+DWABP
+DWABP
+DWABP||(DWABC&&JEAAC)
+DWABP|| (DWABC&&JEAAC)
+DWABP||(DWABC&&JEAAC)
+EN-U9||EN-YE||EN-YL||EN-YM||EN-YT
+EN-U9||EN-YE||EN-YL||EN-YM||EN-YT
+-
+-
+EN-U9 || EN-YL || EN-YM || EN-YT
+ALL
+-
+EN-U9||EN-YE||EN-YL||EN-YM||EN-YT
+EN-U9||EN-YE||EN-YL||EN-YM||EN-YT
+-
+-
+-
+-
+-
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+0.5
+-
+-
+0.5
+0.5
+-
+0.5
+0.5
+-
+-
+-
+-
+-
+WA-0.5
+WA-0.5
+WA-0.5
+WA-0.5
+WA-0.5
+WA-0.5
+WA-0.5
+WA-0.5
+-
+-
+WA-0.5
+WA-0.5
+-
+WA-0.5
+WA-0.5
+-
+-
+-
+INT 329925SL7 : 1.0 :
+JLR
+: 1.0 :
+INT SPACER : 1.0 :
+JLR
+: 1.0 :
+INT blockseal : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col
+Option CSA Spec
+1
+2
+3
+4
+CCB16B
+CCB17B
+CCB18B
+CCB19B
+WH/VT
+BU/GN
+YE/GY
+GN/BN
+ALL
+ALL
+ALL
+ALL
+2.5
+2.5
+2.5
+2.5
+CF11-2.5
+CF11-2.5
+CF11-2.5
+CF11-2.5
+INT 329959506
+:1.0:
+JLR E0VB-13A506-BB:1.0:
+INT SPACER :1.0:
+JLR 
+:1.0:
+Cav No
+Col
+Option
+CSA Spec
+1
+2
+RCA18A
+VCA04A
+BN/GN
+BU/OG
+EN-U9||EN-YE||EN-YL||EN-YM||EN-YT
+EN-U9||EN-YE||EN-YL||EN-YM||EN-YT
+0.5
+0.5
+WA-0.5
+WA-0.5
+INT SPACER : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col
+Option
+CSA Spec
+1
+2
+RCA20A
+VCA06A
+BN
+WH/OG
+EN-U9||EN-YE||EN-YL||EN-YM||EN-YT
+EN-U9||EN-YE||EN-YL||EN-YM||EN-YT
+0.5
+0.5
+WA-0.5
+WA-0.5
+INT SPACER : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col
+Option CSA Spec
+1
+2
+CCB17B
+CCB16B
+BU/GN
+WH/VT
+ALL
+ALL
+2.5
+2.5
+CF11-2.5
+CF11-2.5
+Cav No
+Col
+Option CSA Spec
+1
+2
+CCB19B
+CCB18B
+GN/BN
+YE/GY
+ALL
+ALL
+2.5
+2.5
+CF11-2.5
+CF11-2.5
+Cav No
+Col
+Option
+CSA Spec
+1
+2
+3
+LCL13B
+VCL13B
+RCL13B
+GN/BU
+BN/BU
+YE/BU
+DWABP|| (DWABC&&JEAAC)
+DWABP||(DWABC&&JEAAC)
+DWABP||(DWABC&&JEAAC)
+0.5
+0.5
+0.5
+WA-0.5
+WA-0.5
+WA-0.5
+INT SPACER : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col
+Option CSA Spec
+1
+2
+3
+LCL12B
+VCL12B
+RCL12B
+VT/OG
+WH/VT
+GN/WH
+DWABP
+DWABP
+DWABP
+0.5
+0.5
+0.5
+WA-0.5
+WA-0.5
+WA-0.5
+INT SPACER : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col
+Option CSA Spec
+1
+2
+VET66B
+RET66B
+GN
+GY/YE
+EGJAQ
+EGJAQ
+0.75
+0.75
+WA-0.75
+WA-0.75
+INT SPACER : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col
+Option
+CSA Spec
+1
+2
+CMC09D
+CMC09B
+GY/OG
+GY/OG
+ALL
+EN-U9 || EN-YL || EN-YM || EN-YT
+0.5
+0.5
+WA-0.5
+WA-0.5
+INT SPACER : 1.0 :
+JLR
+: 1.0 :
+Cav No
+Col
+Option CSA Spec
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+(E00028476)
+VET68B
+RET68B
+LET63B
+(3299573M4)
+VET64B
+RET69B
+(3299573M4)
+RET63B
+VET65B
+CET69B
+GY
+VT/OG
+YE/GY
+BU/WH
+OG
+BU/BN
+BU/GN
+OG
+GN/WH
+GY
+WH/VT
+-
+EGJAQ
+EGJAQ
+EGJAQ
+-
+EGJAQ
+EGJAQ
+-
+EGJAQ
+EGJAQ
+EGJAQ
+-
+2.5
+2.5
+0.5
+-
+0.5
+1.0
+-
+0.5
+0.5
+1.0
+-
+GJ-2.5
+GJ-2.5
+WA-0.5
+-
+GJ-0.5
+WA-1.0
+-
+WA-0.5
+GJ-0.5
+WA-1.0
+INT SPACER : 1.0 :
+JLR
+: 1.0 :
+PRINTED COPIES ARE UNCONTROLLED
+DO NOT SCALE FROM DRAWING
+PART MUST COMPLY WITH RESTRICTED SUBSTANCE MANAGEMENT  STANDARD 
+5TJLR.99.9999 TO  SAFEGUARD HEALTH, SAFETY AND THE ENVIRONMENT.
+REFERENCE
+DESIGN
+CHECKED
+SCALE
+DESCRIPTION
+DETAIL
+SAFETY
+CAD TYPE
+DRAFTED IN ACCORDANCE WITH JAGUAR LAND ROVER PLM 
+STANDARDS CURRENT
+AT INITIAL RELEASE
+PART NUMBER
+DRAWING PART NUMBER
+CAD LOC.
+OF
+SHT
+3RD ANGLE PROJ
+DIMENSIONS ARE
+IN MILLIMETERS
+IS MASTER
+DATE
+THE PRESENTATION AND LAYOUT OF THIS DRAWING IS IN LINE 
+WITH THE WIRE HARNESS ASSEMBLY DRAWING STANDARD 
+CADJLR.02.04 LATEST ISSUE.
+MATERIALS FOR BLACK/GREY BOX ITEMS SHALL
+CONFORM TO JAGUAR LAND ROVER MATERIAL
+CONTROL SPECIFICATIONS ST JLR.51.5227.
+SIZE
+JAGUAR
+JAGUAR LAND ROVER LIMITED
+LAND-
+-ROVER
+REV
+CHECKER
+ORIGINATOR
+LTRS
+ENG APP
+REVISIONS
+MATL APP
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+19
+20
+20
+21
+21
+22
+22
+23
+23
+24
+24
+25
+25
+26
+26
+27
+27
+28
+28
+29
+30
+A
+A
+B
+B
+C
+C
+D
+D
+E
+E
+F
+F
+G
+G
+H
+H
+CATIA V6
+ENOVIA
+S8B2-14M401-Z-DWG-01
+DS-L663-180103-E72-25
+4+M+RFR+116092+RFR165STOP
+DTMC
+LEAR
+LEAR
+S8B2-14M401-ZB
+1
+1
+LEAR
+N/A
+NTS
+230123
+N/A
+AU
+WIRE ASY-CHASSIS MAIN
+CHASSIS HARNESS
+IDLABEL
+INT E08319800 : 
+JLR XS71-14A121-AA : 
+BLACK & WHITE
+FORD/JAGUAR
+TA430
+45
+TU2790
+55
+TU130
+112
+TU2545
+50
+TU2790
+70
+65
+5
+50
+TA430
+30
+TU2545
+55
+50
+TU2235
+30
+95
+40
+TU130
+73
+TU130
+65
+TU2545
+50
+TA430
+30
+TA615
+30
+TU2545
+50
+TU2545
+50
+TA615
+135
+50
+80
+45
+TA615
+56
+155
+20
+25
+70
+TA001
+20
+TU1270
+45
+TA001
+20
+TU1270
+45
+TA615
+70
+TA615
+82
+TU130
+75
+TU130
+75
+150
+25
+30
+70
+127
+TA615
+TA680
+130
+50
+TA615
+30
+TA615
+63
+30
+1+13
+B4
+B4
+F1
+F1
+C2
+C2
+G2
+G2
+D1
+D1
+D2
+D2
+B4
+B4
+F1
+F1
+G1
+G1
+C2
+C2
+C2
+C2
+C1
+C1
+ECR
+DESCRIPTION
+DATE
+101169-1
+101169-2
+23MY TT ECRs
+Chassis/Cabin inline sealing issue
+Chassis/Cabin inline sealing issue
+2021-01-29
+2021-01-29
+101169-3
+101361-1
+101361-2
+101361-3
+101963-1
+101963-2
+101963-3
+Chassis/Cabin inline sealing issue
+CTO Change Single hole Tie-strap Clip
+CTO Change Single hole Tie-strap Clip
+CTO Change Single hole Tie-strap Clip
+Move from 2 Height Sensor on RHS to 1 on Rear Left
+Move from 2 Height Sensor on RHS to 1 on Rear Left
+Move from 2 Height Sensor on RHS to 1 on Rear Left
+2021-01-29
+2021-01-29
+2021-01-29
+2021-01-29
+2021-02-10
+2021-02-10
+2021-02-10
+102667-1
+102667-2
+102667-3
+102802-1
+103198-1
+103199-1
+104457-1
+104457-2
+104457-3
+Permanent Implementation of C/RW ECRs on Chassis
+Permanent Implementation of C/RW ECRs on Chassis
+Permanent Implementation of C/RW ECRs on Chassis
+Final DSI Release
+L663 23MY TT 110 DSI Release
+L663 23MY TT 110 DSI Release
+23MY JOB1 ECRs
+Add clip on chassis harness to improve clearance against HVAC pipes 
+Add clip on chassis harness to improve clearance against HVAC pipes
+Add clip on chassis harness to improve clearance against HVAC pipes
+2021-02-23
+2021-02-23
+2021-02-23
+2021-03-02
+2021-03-09
+2021-03-09
+2021-07-13
+2021-07-13
+2021-07-13
+104408-1
+104407-1
+104406-1
+104601-1
+107955-5
+108369-2
+109158-1
+109159-1
+109160-1
+L663-130-23MY PP DSI and CPX Release
+L663-110-23MY PP DSI and CPX Release
+L663-90-23MY PP DSI and CPX Release
+CPX Release for L663 23MY J1 Matrix
+25MY VB ECRs
+Tape P/N updates Required
+Wheel speed sensor assignments for 25MY
+L663-90-25MY-VB DSI and CPX Release
+L663-110-SV-25MY-VB DSI and CPX Release
+L663-130-25MY-VB DSI and CPX Release
+2021-08-04
+2021-08-04
+2021-08-04
+2021-08-04
+2012-09-06
+2022-10-11
+2022-11-15
+2022-11-15
+2022-11-15
+108680-2
+110143-1/2/3
+110676-1/2/3
+110786-4
+110621-1
+110622-1
+110623-1
+Add General Notes to L663 harness dwgs
+                                      25MY TT ECRs
+2D - 3D corrections Chassis + Corner Harnesses
+C44-A1/C44-A2 CSA change
+Splice Wire Combo Check Error Fix
+L663-90-25MY-TT DSI & CPX Release
+L663-110-25MY-TT DSI & CPX Release
+L663-130-25MY-TT DSI & CPX Release
+2022-10-12
+2023-04-06
+2023-04-05
+2023-05-12
+2023-05-13
+2023-05-13
+2023-05-13
+connector.
+1
+2
+3
+1
+2
+crossovers
+Twist
+Transmit line 10mm
+Max 40 mm
+Minimum spacing between circuits in
+connector
+Receive line 15mm
+Note 4:
+For DoIP twisted circuits (identified as ETTL [Ethernet Transmit] & ERTL [Ethernet Receive] prefixed wire 
+ID's in the DSi) that are manufactured internally, should be manufactured according to the requirements 
+laid out in the standard MY-7043.
+A spot tape should be applied to the crossover nearest to the connector, to prevent unravelling of the 
+twist, with the wires being plugged to the connector, ensuring no other circuits are routedbetween the 
+wires. 
+Type B tapes applied as per 
+ES-XU5T-1A303-AA unless otherwise 
+specified
+Twisted Flexray circuits (wire material = FRTH, FRTM or FRTL reported in the DSI file), should be 
+manufactured according to the requirements laid out in the standard STJLR.18.081.
+A spot tape shouldbe applied to the crossover nearest to the connector, to prevent unravelling of the twist,
+with those wires being plugged last to the connector cavities to make sure that other  wires do not get 
+mixed between.
+Type B tapes applied as per 
+ES-XU5T-1A303-AA unless otherwise 
+specified
+1
+2
+3
+4
+1
+2
+3
+crossovers
+Twist
+20 mm +/- 2 mm
+Max 30 mm
+Minimum spacing between circuits in
+connector.
+connector
+Twisted CAN network circuits, consisting of 2 to 4 wires (circuit id beginning VDB as reported in the DSI 
+file), that are manufactured internally, should be manufactured according to the requirementslaid out in 
+the standard ED-0763. 
+A spot tape should be applied to the crossover nearest to the connector, to prevent unravelling of the 
+twist, with the wires being plugged to the connector, ensuring no other circuits are routed between the 
+wires.
+Type B tapes applied as per 
+ES-XU5T-1A303-AA unless otherwise 
+specified
+1
+2
+3
+4
+1
+2
+3
+crossovers
+Twist
+<50mm
+Max 50 mm
+Minimum spacing between circuits in
+connector.
+connector
+C2-C2
+Note :
+When selecting size of convolute tube,
+smallest diameter possible shall be selected
+for the actual diameter of wire harness bundle
+in specific variant of the wire harness.
+B4-B4
+G1-G1
+D2-D2
+G2-G2
+GROMMET (APPLY 
+WATERPROOF)
+per STJLR.00.5056
+per STJLR.00.5056
+EXTERIOR SIDE 
+(WET)
+INTERIOR SIDE 
+(DRY)
+SWP
+SPLICE DUMP SWITCH
+2D Drawing Grommet Example
+Flag Example for a WP 
+Splice 
+1
+2
+3
+4
+41
+35
+38
+31
+PU
+LGW
+B
+P
+0.5D
+0.5D
+0.75D
+0.75D
+134
+134
+134
+134
+Note 3:
+For Non-CAN twisted circuits (identified as T2 [multicore section] without a 'VDB' prefixed wire ID in the DSi) 
+that are manufactured internally, should be manufactured according to the requirements laidout in the 
+standard ED-0763.
+A spot tape should be applied to the crossover nearest to the connector, to prevent unravelling of the twist, 
+with the wires being plugged to the connector, ensuring no other circuits are routed between the wires. 
+Type B tapes applied as per 
+ES-XU5T-1A303-AA unless otherwise 
+specified
+1
+2
+3
+4
+1
+2
+3
+crossovers
+Twist
+<50mm
+Max 50 mm
+Minimum spacing between circuits in
+connector.
+connector
+TWISTED CORE
+Use heatshrink for multicore drain splice
+Cable Screen
+Cable Cores
+Ultrasonic Weld
+Drain Wire
+Main Cable
+Heat Shrink
+GR2
+INT E02486200 : 
+JLR CK52-14603-ATA : 
+GR3
+INT E02486200 : 
+JLR CK52-14603-ATA : 
+GR4
+INT E02486200 : 
+JLR CK52-14603-ATA : 
+GR8
+INT E02486200 : 
+JLR CK52-14603-ATA : 
+GR7
+INT E02486200 : 
+JLR CK52-14603-ATA : 
+GR6
+INT E02486200 : 
+JLR CK52-14603-ATA : 
+GR5
+INT E02486200 : 
+JLR CK52-14603-ATA : 
+GR1
+INT E02486200 : 
+JLR CK52-14603-ATA : 
+R048020
+INT 3203507T9 : 
+JLR 4S7T-14197-BA : 
+R048035
+INT E03952400 : 
+JLR GHCT-14A163-AKA : 
+RO45075
+INT 3203507T9 : 
+JLR 4S7T-14197-BA : 
+R048065
+INT 3203507T9 : 
+JLR 4S7T-14197-BA : 
+R048015
+INT 320350341 : 
+JLR 98AG-14A169-AA : 
+R048021
+INT 3203507T9 : 
+JLR 4S7T-14197-BA : 
+R048050
+INT 320350341 : 
+JLR 98AG-14A169-AA : 
+R048040
+INT 3203520A5 : 
+JLR 8U5T-14E047-HA : 
+R048025
+INT 3203507T9 : 
+JLR 4S7T-14197-BA : 
+R048030
+INT 329954358 : 
+JLR E0VB-13A506-CA : 
+R048045
+INT 3203507A3 : 
+JLR 2S7T-14197-BA : 
+CLIP632400
+INT 329959HA1 : 
+JLR  : 
+DUMMY
+FORMER
+INT 329959HA1 : 
+JLR  : 
+DUMMY
+R048011
+INT E00024568 : 
+JLR LHC2-13A506-EA : 
+R048005
+INT E00024568 : 
+JLR LHC2-13A506-EA : 
+R0480110
+INT 3203507T9 : 
+JLR 9HC2-14A163-BA : 
+R048041
+INT 3203507T9 : 
+JLR 9HC2-14A163-BA : 
+R048032
+INT 3203505U9 : 
+JLR JHC2-13A506-GA : 
+R048055
+INT 3203507T9 : 
+JLR 4S7T-14197-BA : 
+INT 127126134 : 3 : 
+JLR 9HC2-1A303-EBA : 3 : 
+INT 127126134 : 3 : 
+JLR 9HC2-1A303-EBA : 3 : 
+INT 127126134 : 3 : 
+JLR 9HC2-1A303-EBA : 3 : 
+INT 127126134 : 3 : 
+JLR 9HC2-1A303-EBA : 3 : 
+INT 127126134 : 3 : 
+JLR 9HC2-1A303-EBA : 3 : 
+INT 127126134 : 3 : 
+JLR 9HC2-1A303-EBA : 3 : 
+INT 127126134 : 3 : 
+JLR 9HC2-1A303-EBA : 3 : 
+INT 127126134 : 3 : 
+JLR 9HC2-1A303-EBA : 3 : 
+INT 127126134 : 3 : 
+JLR 9HC2-1A303-EBA : 3 : 
+INT 127126134 : 3 : 
+JLR 9HC2-1A303-EBA : 3 : 
+TA430
+55
+145
+TA125
+22
+135
+TA125
+22
+100
+TA125
+22
+167
+TA125
+22
+115
+45
+TA125
+22
+137
+TA125
+22
+100
+TA125
+22
+137
+TA125
+22
+115
+50
+TA565
+90
+TA615
+TA430
+TU1270
+TU2790
+TA565
+TU2545
+TA125
+C44-B2
+C4CA04
+C4CB06
+C4CD12
+C4ET64A
+C4ET66A
+TK048001
+Node.40
+TK048005
+N162103
+GR1
+GR2
+N162107
+GR3
+N162109
+GR4
+N162111
+R048015
+S4ET33C
+N4166200
+BAREEND2
+BAREEND1
+R048005
+R048055
+STP850
+N812805
+STP826
+R048021
+FORMER
+R048020
+R048025
+STP859
+R048030
+N8967700
+R0480110
+R048011
+C4CA06
+C4CB07
+C4MC09
+TK048010
+N162122
+GR8
+GR7
+N162126
+N162127
+GR6
+GR5
+N162130
+R048050
+STP29012
+R048045
+N1058801
+R048040
+R048041
+CLIP632400
+R048032
+N8967701
+N812803
+C44-B4
+C4CD13
+C44-A2&J1
+Node.49
+STP29015
+RO45075
+S4ET33F
+R048065
+STP854
+BAREEND2
+INT  : 
+JLR  : 
+S4ET33C
+INT UWELD15 : 
+JLR  : 
+S4ET33F
+INT UWELD15 : 
+JLR  : 
+BAREEND1
+INT  : 
+JLR  : 
+ INLINE CHASSIS/CABIN
+C44-A2
+INT E15303000 : 
+JLR HHCT-14A624-YA : 
+P
+P
+L
+U
+G
+G
+E
+D
+C
+O
+N
+N
+S
+S
+E
+A
+L
+E
+D
+C
+O
+N
+N
+INLINE CHASSIS/CABIN 1
+C44-B2
+INT E04615000 : 
+JLR FHCT-14A624-FA : 
+BLACK
+10
+20
+1
+11
+P
+P
+L
+U
+G
+G
+E
+D
+C
+O
+N
+N
+S
+S
+E
+A
+L
+E
+D
+C
+O
+N
+N
+INT 32165K1P7 : 
+JLR DHCT-14A464-DA : 
+INLINE CHASSIS/CABIN 2
+C44-B4
+GRAY
+P
+P
+L
+U
+G
+G
+E
+D
+C
+O
+N
+N
+S
+S
+E
+A
+L
+E
+D
+C
+O
+N
+N
+ REAR WHEEL SPEED SENSOR RL
+C4CA04
+INT 3216666F1 : 
+JLR 1X4T-14A464-UA : 
+1
+2
+BLACK
+P
+P
+L
+U
+G
+G
+E
+D
+C
+O
+N
+N
+S
+S
+E
+A
+L
+E
+D
+C
+O
+N
+N
+REAR WHEEL SPEED SENSOR RR
+C4CA06
+INT 3216666F1 : 
+JLR 1X4T-14A464-UA : 
+1
+2
+BLACK
+P
+P
+L
+U
+G
+G
+E
+D
+C
+O
+N
+N
+S
+S
+E
+A
+L
+E
+D
+C
+O
+N
+N
+PARK BRAKE CALIPER-LH
+C4CB06
+INT 3216646M1 : 
+JLR 98AG-14A464-ZBB : 
+1
+2
+GREY
+P
+P
+L
+U
+G
+G
+E
+D
+C
+O
+N
+N
+S
+S
+E
+A
+L
+E
+D
+C
+O
+N
+N
+ EPB MOTOR ACTUATOR RH
+C4CB07
+INT 3216646M1 : 
+JLR 98AG-14A464-ZBB : 
+1
+2
+GREY
+P
+P
+L
+U
+G
+G
+E
+D
+C
+O
+N
+N
+S
+S
+E
+A
+L
+E
+D
+C
+O
+N
+N
+RL AXLE HEIGHT SENSOR
+C4CD12
+INT E35207600 : 
+JLR  : 
+P
+P
+L
+U
+G
+G
+E
+D
+C
+O
+N
+N
+S
+S
+E
+A
+L
+E
+D
+C
+O
+N
+N
+Dummy
+RHR AXLE HEIGHT SENSOR
+C4CD13
+INT E35207600 : 
+JLR  : 
+P
+P
+L
+U
+G
+G
+E
+D
+C
+O
+N
+N
+S
+S
+E
+A
+L
+E
+D
+C
+O
+N
+N
+Dummy
+ OIL TEMP SENSE DIFF
+C4ET66A
+INT 3216666F1 : 
+JLR 1X4T-14A464-UA : 
+1
+2
+BLACK
+P
+P
+L
+U
+G
+G
+E
+D
+C
+O
+N
+N
+S
+S
+E
+A
+L
+E
+D
+C
+O
+N
+N
+BRAKE PAD WEAR SENSOR REAR RH
+C4MC09
+INT 3216675G8 : 
+JLR 6M5T-14A464-ABA : 
+BLACK
+2
+1
+P
+P
+L
+U
+G
+G
+E
+D
+C
+O
+N
+N
+S
+S
+E
+A
+L
+E
+D
+C
+O
+N
+N
+ REAR DIFF ACTUATOR
+C4ET64A
+INT E01911900 : 
+JLR EK6T-14A464-FA : 
+BLACK
+8
+7
+4
+1
+3
+11
+P
+P
+L
+U
+G
+G
+E
+D
+C
+O
+N
+N
+S
+S
+E
+A
+L
+E
+D
+C
+O
+N
+N
+115 mm 0/+10
+394 mm 0/+10
+294 mm 0/+10
+573 mm 0/+10
+INT TIE-BACK FOLD : 3.00
+CUST : 3.00
+         INT 127125011 :3.00
+         CUST SKM3G9513A :3.00
+coil this break-out as small as 
+pratical after R048015 using tear tape
+for easy vehicle installation
+DIMENSION POINTS
+EDGE OF THE FORMER
+ADD SPOT TAPE ON BOTH
+SIDES OF FLEXGUARD
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+Add one spot tape and 
+one strap on each side
+Add anti-abrasive tape 30mm after
+E0VB-13A506-CA clip up to 30mm 
+after 8U5T-14E047-HA clip 
+115 mm 0/+10
+294 mm 0/+10
+394 mm 0/+10
+573 mm 0/+10
+F2
+F2
+SEE VIEW Z
+H1
+H1
+J
+J
+SEE VIEW Y
+H
+G2
+G2
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+H
+1
+12
+13
+24
+1
+2
+3
+4
+2
+14
+11
+23
+All connectors except C4CB06 & C4CB07
+Sleeve guard has to be
+ placed at 30 mm from the side
+ of the connector dressing
+Fully tape the branch and the former, 
+before adding the tie strap and the clip
+8U5T-14E042-FB
+8U5T-14E042-FB
+.
+75
+70
+82
+.
+.3
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+TU130
+RELEASE OF PART S8B2-14M401-ZA
+PARTS RELEASED ON
+UEE1 E 50362186 000                     230123
+PLEASE SEE ECR BOX
+INT TIE-BACK FOLD : 3.00
+CUST : 3.00
+         INT 127125011 :3.00
+         CUST SKM3G9513A :3.00
+coil this break-out as small as 
+pratical after R048050 using tear tape
+for easy vehicle installation
+ADD SPOT TAPE ON BOTH
+SIDES OF FLEXGUARD
+LEAR
+LEAR
+MATSENG
+MHORSLEY
+PRODUCT IS IN ACCORDANCE WITH
+ RMDV 344e3-Y9310A
+                                                                Instruction for EYELET & Splice Sealing
+• Eylet and Splice sealing to be defined using decision tree ( ref : Decision Tree for Eyelet&Splice Sealing)
+Sealed Splice
+• For sealed splice the following notes are to be added to the drawing:
+o All Splice have to be waterproofed using heat shrink tubes with hot melt according heat spec ES-F0EB-1A263-AA(dual wall 125°C)
+ and must comply to splice sealing Spec ES-F0EB-1A263-AA except otherwise specified at the individual splice (See Flagnote $NWP1)
+o For correct diameter of heat shrink tube on each derivative harness refer to TE Connectivity Product Installation Procedure
+ (PIP-101;QSZH-125)
+• Each UNSEALED splice needs a flagnote (as below) adding next to it to show it is not needing to be sealed.
+Sealed Eyelets
+• For sealed eyelets the following notes are to be added to the drawing:
+o ED 6388-EYELET CRIMP SEALING REQUIRED IN WET AREAS:When an earhing eyelet is in a wet environment it must be sealed
+ at the crimp and insulation support areas to spec ES-S-F0EB-1A263-AA This will avoid water ingress by capillary action(wicking)
+ to the core of wire.No materials used in the sealing process are allowed to encroach(intrude) on or contaminate to contact area
+ of terminal.Flagnote $WP2 denotes sealed eyelet requirement.
+• EACH sealed Eyelet needs a flagnote(as below) adding next to it to show it is needing to be sealed.
+• If Solder is determined to be required by the plant to achieve  eyelet sealing to following note is to be added to the drawing:
+o Flagnote $WP3 denotes additional solder required for eyelet.
+• Each Eyelet requiring solder needs a flagnote next to it
+ 
+• . Also required is the defined quantity f solder to be added to the drawing as a subcomponent of the eyelet. This is to be defined
+ by plant but added by ECR
+ 
+• If Mastic is determined to be required by the plant to achieve eyelet sealing the following note is to be added to the drawing:-
+o   Flagnote $WP4 denotes additional mastic required for eyelet
+• .Each Eyelet requiring mastic needs a flagnote next to it.
+ 
+ 
+ 
+ 
+•  Also required is the defined quantity f mastic to be added to the drawing as a subcomppnent of the eylet. this is to defined
+  by plant bu added by ECR 
+Heat Shrink sleeve Selection
+ 
+• Heat Shrink are to be selected using TE connectivity PIP-101for splice appications.Corresponding Lear Part numbers and
+  corresponding details (width's/lengths) are available in SEM
+•  Heat shrinks are to be selected based on required diametre and length for eyelets, taking into account any bend radius
+  requirements frm the routing. corresponding Lear Part numbers and corresponding details(width's/lengths) are available 
+  in SEM
+• Lear Part number for sellected heat shrink is to be specfied on the ECR instructing the change and the drawing by the LU Engineer
+• If an alternative heatshrink is required this is to be specified by DFM request 
+LEAR
+LEAR
+MATSENG
+MHORSLEY
+RELEASE OF PART S8B2-14M401-ZB
+PARTS RELEASED ON
+UEE1 E 50371894 000                    230707
+PLEASE SEE ECR BOX
+C1-C1
+TU130
+INSULATION LEGEND
+TU2235
+TU130
+TU130
+Chart release 1 : UEE1 E 50382432 000
+Chart release 2 : UEE1 E 50385381 000
+Alert : A50386705 
+Node.41
+R048035

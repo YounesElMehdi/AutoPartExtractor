@@ -1,0 +1,496 @@
+ 
+ 
+ 
+ 
+ 
+ 
+CPN
+ 
+ 
+ 
+ 
+ 
+ 
+EPN
+ 
+ 
+ 
+ 
+ 
+ 
+1st CPN
+A57AB
+AA5A1
+AA5AY
+BZEAC
+MSVAC
+CCR SEATS
+SHORT WHEELBASE
+STANDARD WHEELBASE
+SEAT SQUAB POWER RECLINE
+SV MODEL SPEC 
+ S8BM-14D555-AB  5D805T001  L002833834NCPAC  X
+ X  X  X
+Wire
+Multicore Name Color
+Spec
+Size Option From
+Pin 1. Loc 1 To
+Pin 2 Loc 2 Length
+CPS306CS
+CPS307CS
+RPS308G
+VPS306CS
+VT/OG
+GY/BN
+BK/BU
+GY/OG
+WA-1.0
+WA-1.0
+WA-0.35
+WA-0.35
+1
+1
+0.35
+0.35
+BZEAC
+BZEAC
+BZEAC
+BZEAC
+CM33R1
+CM33R1
+CM33R1
+CM33R1
+1
+3
+2
+4
+E-5
+E-5
+E-5
+E-5
+C3PS460A
+C3PS460A
+C3PS460A
+C3PS460A
+2
+1
+3
+4
+E-13
+E-13
+E-13
+E-13
+330
+330
+330
+330
+Cav No
+Col
+Option CSA Spec
+1
+2
+3
+4
+CPS307CS
+CPS306CS
+RPS308G
+VPS306CS
+GY/BN
+VT/OG
+BK/BU
+GY/OG
+BZEAC
+BZEAC
+BZEAC
+BZEAC
+1.0
+1.0
+0.35
+0.35
+WA-1.0
+WA-1.0
+WA-0.35
+WA-0.35
+INT 321950F28 :1.0:
+JLR 
+:1.0:
+Cav No
+Col
+Option CSA Spec
+1
+2
+3
+4
+CPS306CS
+RPS308G
+CPS307CS
+VPS306CS
+VT/OG
+BK/BU
+GY/BN
+GY/OG
+BZEAC
+BZEAC
+BZEAC
+BZEAC
+1.0
+0.35
+1.0
+0.35
+WA-1.0
+WA-0.35
+WA-1.0
+WA-0.35
+INT E36282200
+:1.0:
+JLR NHCT-14A282-ALA:1.0:
+INT SPACER :1.0:
+JLR 
+:1.0:
+PRINTED COPIES ARE UNCONTROLLED
+DO NOT SCALE FROM DRAWING
+PART MUST COMPLY WITH RESTRICTED SUBSTANCE MANAGEMENT  STANDARD 
+5TJLR.99.9999 TO  SAFEGUARD HEALTH, SAFETY AND THE ENVIRONMENT.
+REFERENCE
+DESIGN
+CHECKED
+SCALE
+DESCRIPTION
+DETAIL
+SAFETY
+CAD TYPE
+DRAFTED IN ACCORDANCE WITH JAGUAR LAND ROVER PLM 
+STANDARDS CURRENT
+AT INITIAL RELEASE
+PART NUMBER
+DRAWING PART NUMBER
+CAD LOC.
+OF
+SHT
+3RD ANGLE PROJ
+DIMENSIONS ARE
+IN MILLIMETERS
+IS MASTER
+DATE
+THE PRESENTATION AND LAYOUT OF THIS DRAWING IS IN LINE 
+WITH THE WIRE HARNESS ASSEMBLY DRAWING STANDARD 
+CADJLR.02.04 LATEST ISSUE.
+MATERIALS FOR BLACK/GREY BOX ITEMS SHALL
+CONFORM TO JAGUAR LAND ROVER MATERIAL
+CONTROL SPECIFICATIONS ST JLR.51.5227.
+SIZE
+JAGUAR
+JAGUAR LAND ROVER LIMITED
+LAND-
+-ROVER
+REV
+CHECKER
+ORIGINATOR
+LTRS
+ENG APP
+REVISIONS
+MATL APP
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+8
+9
+9
+10
+10
+11
+11
+12
+12
+13
+13
+14
+14
+15
+15
+16
+16
+17
+17
+18
+18
+19
+20
+A
+A
+B
+B
+C
+C
+D
+D
+E
+E
+F
+F
+G
+G
+H
+H
+CATIA V6 
+ENOVIA
+S8BM-14D555-A-DWG-01 
+DS-L663-180115-SVO001-X5
+4+mfg
+DTMC
+LEAR
+LEAR
+S8BM-14D555-AB
+1
+1
+LEAR
+N/A
+NTS
+221115
+LH
+AU
+WIR ASY ST PWR RECL JMPR LH
+L663 25MY FRONT SEAT POWER RECLINE LINK 
+HARN LHS
+LABEL
+INT E08319800 : 
+JLR XS71-14A121-AA : 
+BLACK & WHITE
+FORD/JAGUAR
+TA635
+100
+TA635
+90
+TA635
+38
+TA635
+38
+A
+A
+A
+A
+Twisted CAN network circuits, consisting of 2 to 4 wires (circuit id beginning VDB as reported in the DSI 
+file), that are manufactured internally, should be manufactured according to the requirementslaid out in 
+the standard ED-0763. 
+A spot tape should be applied to the crossover nearest to the connector, to prevent unravelling of the 
+twist, with the wires being plugged to the connector, ensuring no other circuits are routed between the 
+wires.
+Type B tapes applied as per 
+ES-XU5T-1A303-AA unless otherwise 
+specified
+1
+2
+3
+4
+1
+2
+3
+crossovers
+Twist
+<50mm
+Max 50 mm
+Minimum spacing between circuits in
+connector.
+connector
+( please use 127020634 )
+Note 3:
+For Non-CAN twisted circuits (identified as T2 [multicore section] without a 'VDB' prefixed wire ID in the DSi) 
+that are manufactured internally, should be manufactured according to the requirements laidout in the 
+standard ED-0763.
+A spot tape should be applied to the crossover nearest to the connector, to prevent unravelling of the twist, 
+with the wires being plugged to the connector, ensuring no other circuits are routed between the wires. 
+Type B tapes applied as per 
+ES-XU5T-1A303-AA unless otherwise 
+specified
+1
+2
+3
+4
+1
+2
+3
+crossovers
+Twist
+<50mm
+Max 50 mm
+Minimum spacing between circuits in
+connector.
+connector
+( please use 127020634 )
+TWISTED CORE
+Use heatshrink for multicore drain splice
+Cable Screen
+Cable Cores
+Ultrasonic Weld
+Drain Wire
+Main Cable
+Heat Shrink
+Twisted Flexray circuits (wire material = FRTH, FRTM or FRTL reported in the DSI file), should be 
+manufactured according to the requirements laid out in the standard STJLR.18.081.
+A spot tape shouldbe applied to the crossover nearest to the connector, to prevent unravelling of the twist,
+with those wires being plugged last to the connector cavities to make sure that other  wires do not get 
+mixed between.
+Type B tapes applied as per 
+ES-XU5T-1A303-AA unless otherwise 
+specified
+1
+2
+3
+4
+1
+2
+3
+crossovers
+Twist
+20 mm +/- 2 mm
+Max 30 mm
+Minimum spacing between circuits in
+connector.
+connector
+( please use 127020634 )
+Note: 
+When selecting size of convolute tube, 
+smallest diameter possible shall be selected
+for the actual diameter of wire harness bundle 
+in specific variant of wire harness.
+PRODUCT IS IN ACCORDANCE 
+WITH RMDV SV-345N-HA-ZY4002
+connector.
+1
+2
+3
+1
+2
+crossovers
+Twist
+Transmit line 10mm
+Max 40 mm
+Minimum spacing between circuits in
+connector
+Receive line 15mm
+Note 4:
+For DoIP twisted circuits (identified as ETTL [Ethernet Transmit] & ERTL [Ethernet Receive] prefixed wire 
+ID's in the DSi) that are manufactured internally, should be manufactured according to the requirements 
+laid out in the standard MY-7043.
+A spot tape should be applied to the crossover nearest to the connector, to prevent unravelling of the 
+twist, with the wires being plugged to the connector, ensuring no other circuits are routedbetween the 
+wires. 
+Type B tapes applied as per 
+ES-XU5T-1A303-AA unless otherwise 
+specified
+( please use 127020634 )
+ECR
+DESCRIPTION
+DATE
+108913-1
+108680-1
+108913-2
+Final Sub Assy Definition 
+Final Sub Assy Definition 
+GENERAL NOTES FOR VB 2D DRAWINGS
+15/11/2022
+15/11/2022
+15/11/2022
+108680-2
+109093-1
+109093-2
+109158-1
+109058-1
+110621-1
+GENERAL NOTES FOR VB 2D DRAWINGS
+New seat link leads harness required
+New seat link leads harness required
+L663-90-25MY-VB DSI and CPX Release
+25MY SV 110WB - New seat harnesses dwg creation
+25MY VB
+L663-90-25MY-TT DSI & CPX Release
+15/11/2022
+15/11/2022
+15/11/2022
+15/11/2022
+15/11/2022
+26/06/2023
+110909-1
+Remove D90 (SV) content for 25MY L663 90
+25MY TT
+26/06/2023
+$NWP1
+R02
+INT 329925SRK : 
+JLR DX7T-14197-LA : 
+R01
+INT 329925SRK : 
+JLR DX7T-14197-LA : 
+TA001
+10
+TA001
+10
+TA001
+0
+TA635
+0
+CM33R1
+C3PS460A
+N9851206
+N9851207
+N9851212
+N9851214
+N9851217
+N9851218
+R02
+N9851210
+R01
+MOTOR SEAT ADJUST 
+INCLINE RECLINE
+C3PS460A
+INT 3216675K9 : 
+JLR NHCT-14489-ABA : 
+BLACK
+3
+1
+4
+2
+INT 3216741U5 : 
+JLR 4S7T-14A459-VDA : 
+INLINE FRONT SEAT
+RECLINE MOTOR
+CM33R1
+NATURAL
+1
+3
+2
+4
+LEAR
+LEAR
+MATSENG
+MHORSLEY
+RELEASE PART OF        S8BM-14D555-AB
+PART RELEASED ON          UEE1 E 50371905 000
+                                                        230623
+PLEASE SEE ECR BOX                 
+INSULATION LEGEND
+VIEW A
+GREY
+LEAR
+LEAR
+MATSENG
+MHORSLEY
+RELEASE PART OF        S8BM-14D555-AA
+PART RELEASED ON          UEE1 E 50362202 000
+                                                        221115
+PLEASE SEE ECR BOX                 
+ROLL ID LABEL
+BARCODE MUST BE VISIBLE
